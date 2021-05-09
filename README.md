@@ -1,7 +1,7 @@
 # annn convert py2exe
 
 - author: laplaciannin102(Kosuke Asada)
-- date: 2021/04/05
+- date: 2021/05/10
 - version: 0.0.1
 
 ---
