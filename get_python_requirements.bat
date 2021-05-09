@@ -1,6 +1,6 @@
 @echo off
 
-rem author: laplaciannin102
+rem author: laplaciannin102(Kosuke Asada)
 rem this bat file get python script requirements.txt file.
 
 echo _________________________________________________________________________________________

@@ -1,5 +1,8 @@
 @echo off
 
+rem author: laplaciannin102(Kosuke Asada)
+rem this bat file converts python script to exe file with log file.
+
 rem change code UTF-8
 chcp 65001
 

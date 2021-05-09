@@ -1,6 +1,6 @@
 @echo off
 
-rem author: laplaciannin102
+rem author: laplaciannin102(Kosuke Asada)
 rem this bat file converts python script to exe file.
 
 echo _________________________________________________________________________________________
